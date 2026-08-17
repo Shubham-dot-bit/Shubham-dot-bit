@@ -1,5 +1,7 @@
 ## Hi Shubham👋
 I’m currently learning Github.
+<Br>
+Trying new things
 <!--
 **Shubham-dot-bit/Shubham-dot-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
